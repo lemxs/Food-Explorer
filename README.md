@@ -15,7 +15,7 @@ O projeto será divido em duas partes: `Front-end` e `Back-end`
 ```
 
 ```bash
-# Lojin
+# Login
 usuário: adm@email.com
 senha: 123456
 ```
